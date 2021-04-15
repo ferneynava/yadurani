@@ -1,6 +1,6 @@
 # Hi! 👋🏼 soy Yadu. 
 
-###  Soy diseñadora gráfica y desarrolladora frontend. 
+###  Soy Diseñadora Gráfica y Desarrolladora Frontend. 
 
 
 💪🏼 Actualmente estoy estudiando para especializarme en: **React.js**.
