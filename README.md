@@ -15,7 +15,7 @@
 * Redux
 
 💖 In my free time, believe **projects to practice my skills**.
- Los puedes ver en mi [Github](https://github.com/yadurani). 
+ You can see them in me [Github](https://github.com/yadurani). 
  
 🌸 I love design and I always try to implement pixel perfect in my projects.
 
