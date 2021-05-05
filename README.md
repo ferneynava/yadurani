@@ -1,11 +1,10 @@
-# Hi! 👋🏼 soy Yadu. 
+# Hi! 👋🏼 I'm Yadu. 
 
-###  Soy Diseñadora Gráfica y Desarrolladora Frontend. 
+###  I'm Graphic Designer and Developer Frontend. 
 
+💪🏼 I'm currently studying to specialize in: **React.js**.
 
-💪🏼 Actualmente estoy estudiando para especializarme en: **React.js**.
-
-🥇 He aprendido algunos lenguajes y herramientas, entre ellos: 
+🥇 I've learned some languages and tools, including: 
 * HTML
 * CSS
 * JavaScript
@@ -15,17 +14,18 @@
 * Styled components
 * Redux
 
-💖 En mis tiempos libres, creo **proyectos para practicar mis habilidades**.
+💖 In my free time, believe **projects to practice my skills**.
  Los puedes ver en mi [Github](https://github.com/yadurani). 
  
-🌸 Me encanta el diseño y siempre trato de implementar en mis proyectos pixel perfect.
+🌸 I love design and I always try to implement pixel perfect in my projects.
 
-👩😺 Tengo dos gatos. Me encanta ver series. Me encanta bailar.
+👩😺 I've two cats. I love to watch series. I love to dance.
 
-🎉✨ Actualmente estudio en [Platzi](https://platzi.com).
+🎉✨ Currently studying in [Platzi](https://platzi.com).
 
 ## 💛 Get in touch: 
 * ✨ Twitter: https://twitter.com/YaduLopezRivera
+* 🌍 Linkedin: https://www.linkedin.com/in/yadu-lopez/
 
 <!--
 **yadurani/yadurani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
