@@ -2,7 +2,7 @@
 
 # Hi! 👋🏼 I'm Yadu. 
 
-###  I'm Developer Frontend and Web Designer. 
+###  I'm Frontend Developer and Web Designer. 
 
 💪🏼 I'm currently studying to specialize in: **React.js**.
 
