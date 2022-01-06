@@ -6,7 +6,7 @@
 
 💪🏼 I'm currently studying to specialize in: **React.js**.
 
-💖 In my free time, believe **projects to practice my skills**.
+💖 In my free time, I create **projects to practice my skills**.
  You can see them in me [Github](https://github.com/yadurani). 
  
 🌸 I love design and I always try to implement pixel perfect in my projects.
