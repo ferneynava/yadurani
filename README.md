@@ -21,9 +21,18 @@
 I like to create personal projects for practice my skills.
 
 Last Projects:
-* Pokedex -  https://pokemon-app-khaki.vercel.app/
-* Aptos - https://yadurani-aptuno.vercel.app/
-* Comics - https://yadurani.github.io/comic-app/
+<h4><a href="https://salaries.get-hired.work/">💰 GetHired Platzi Master C8</a></h4> 
+<p>Is an application where you can calculate your salary, compare your salary range with other profiles and when searching for your job you can negotiate your salary. Use technologies like React.js, HTML, CSS, Styled Components, Mui and Redux</p>
+<h4><a href="https://platzi-master-c8.github.io/gethired-commons/?path=/story/design-system-atoms-button--variants">💻 Commons GetHired Platzi Master C8</a></h4> 
+<p>This is a design system based in MUI. It was use to GetHired Application. We used React.js, Lerna, MUI and Storybook</p>
+<h4><a href="https://yadulopez.com/">👩 Personal Site</a></h4> 
+<p>It is my personal website where you will know a little about my path as a developer, it was developed with Next.js, styled components, Context API and Sanity</p>
+<h4><a href="https://pokemon-app-khaki.vercel.app/">😸 Pokedex</a></h4> 
+<p>Pokedex is an application where you will find all your favorite pokemons. Use technologies like React.js, HTML, CSS, Styled Components and Context API</p>
+<h4><a href="https://yadurani-aptuno.vercel.app/">🏠 Aptos</a></h4>
+<p>This is an application where you can search and filter the apartment of your dreams. It was developed with Next.js, Styled Component and Context API</p>
+<h4><a href="https://yadurani.github.io/comic-app/">🧧 Comics</a></h4>
+<p>This is an application to list and add your comics to favorites. It was developed with webpack, React.js, Sass and Redux</p>
 
 ## 🎯 Some technologies I use:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
